@@ -1,2 +1,4 @@
-UgandaAirlines Mumbai 120   
-UgandaAirlines Guangzhou 150
+UgandaAirlines Dubai 180   
+UgandaAirlines Nairobi 82   
+UgandaAirlines Dubai 163   
+UgandaAirlines London 202
